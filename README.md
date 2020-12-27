@@ -1,6 +1,6 @@
 # Kneser-Ney by MapReduce
 
-
+Github Markdown 无法显示 Latex 公式，可移步 [HackMD](https://hackmd.io/@TwistsOfFate/ryWoVTB6D) 查看能正确显示公式的文档。
 
 
 
